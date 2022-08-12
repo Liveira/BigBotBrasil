@@ -1,0 +1,380 @@
+{
+    "req": [
+        "Matar um idoso",
+        "Torturar um participante",
+        "Programar Python",
+        "Ser torturado por um participante",
+        "Xingar jogadores de free fire",
+        "Assistir Big Brother Brasil",
+        "Assistir voc\u00ea sabia",
+        "Morrer",
+        "Ser traficante de floppas",
+        "Beber \u00e1cidos",
+        "Chutar um idoso",
+        "Ser espancado na rua",
+        "Ser um youtuber fracassado",
+        "Ser um corno",
+        "Ter p\u00e9ssimos gostos",
+        "Se suicidar e sair vivo",
+        "Ser amigo do Renato",
+        "Comer p\u00e3o de 1 semana atr\u00e1s",
+        "Ser f\u00e3 do Felipe Neto",
+        "Jogar Minecraft",
+        "Acariciar um Floppa!",
+        "Amea\u00e7ar gr\u00e1vidas",
+        "Chutar an\u00f5es",
+        "Ser censurado",
+        "Ser furry",
+        "Passar por muta\u00e7\u00f5es",
+        "Comer um cacto",
+        "Espancar a m\u00e3e",
+        "Chutar mendigos na rua",
+        "Fazer piadas de mau gosto",
+        "Enfiar uma faca em s\u00ed mesmo",
+        "Ter diabetes e se curar de alguma forma",
+        "Testar uma cura pro c\u00e2ncer",
+        "Tentar n\u00e3o ser burro, e fracassar",
+        "Tentar usar 0.1% da inteligencia e fracassar.",
+        "Ser burro",
+        "Porque voc\u00ea est\u00e1 usando este bot?",
+        "Colocar fotos de bart triste no perfil",
+        "Usar emojis n\u00e3o ir\u00f4nicamente",
+        "Chorar no banho",
+        "Porque eu existo?",
+        "Ter uma crise existencial",
+        "Ser pro player no Roblox",
+        "Ter 12 anos e jogar Roblox"
+    ],
+    "falas": {
+        "conversou": {
+            "fala": "%s passou o dia conversando com %s por um bom tempo %s",
+            "quant": 2,
+            "local": true
+        },
+        "teto": {
+            "fala": "%s ficou 10 horas encarando o teto %s...",
+            "quant": 1,
+            "local": true
+        },
+        "envenenou": {
+            "fala": "%s tentou envenenar o copo de leite de %s %s, n\u00e3o aguenta e bebe o copo de leite ",
+            "quant": 2,
+            "local": true
+        },
+        "matou": {
+            "fala": "Em uma noite %s tentou assasinar %s com um cano de a\u00e7o... Mas acaba sendo flagrado e sendo espancado",
+            "quant": 2,
+            "local": false
+        },
+        "liquidoestranho": {
+            "fala": "%s achou um liquido estranho %s, ele n\u00e3o pensou duas vezes e bebeu",
+            "quant": 1,
+            "local": true
+        },
+        "cantada": {
+            "fala": "%s tentou mandar aquela cantada em %s, mas acabou que ele acabou parar no hospital!",
+            "quant": 2,
+            "local": false
+        },
+        "barulhosestranhos": {
+            "fala": "%s ouviu um barulho estranho %s, ele decidiu ignorar",
+            "quant": 1,
+            "local": true
+        },
+        "conselhos": {
+            "fala": "%s pediu conselhos para %s, mas ele se arrepende",
+            "quant": 2,
+            "local": false
+        },
+        "encomenda": {
+            "fala": "A encomenda de %s foi roubada",
+            "quant": 1,
+            "local": false
+        },
+        "piscina": {
+            "fala": "%s escorregou na piscina, %s tenta ajudar mas quebra o pulso e %s riu, se engasgou e morreu",
+            "quant": 3,
+            "local": false
+        },
+        "lamber": {
+            "fala": "%s achou uma pizza mofada no ch\u00e3o do banheiro, ele comeu...",
+            "quant": 1,
+            "local": false
+        },
+        "bbb": {
+            "fala": "%s foi flagrado assistindo Big Brother Brasil! Obviamente foi espancado...",
+            "quant": 1,
+            "local": false
+        },
+        "soumelhoremtudo": {
+            "fala": "%s respirou fundo e falou \"SOU MELHOR QUE O %s EM TUDO!\"",
+            "quant": 2,
+            "local": false
+        },
+        "traficar": {
+            "fala": "%s foi traficar floppas! Mas ele acaba tomando esporro dos seguran\u00e7as",
+            "quant": 1,
+            "local": false
+        },
+        "cogumelos": {
+            "fala": "%s achou uns cogumelos suspeitos, %s comeu e passou mal!",
+            "quant": 2,
+            "local": false
+        },
+        "trope\u00e7ou": {
+            "fala": "%s trope\u00e7ou em %s, os dois acabam brigando e acabam no hospital",
+            "quant": 2,
+            "local": false
+        },
+        "xingou": {
+            "fala": "%s ficou furioso e tentou xingar, mas acaba sendo censurado...",
+            "quant": 1,
+            "local": false
+        },
+        "comida": {
+            "fala": "%s e %s fez o almo\u00e7o, por\u00e9m todo mundo acaba passando mal!",
+            "quant": 2,
+            "local": false
+        },
+        "piada": {
+            "fala": "%s reuniu todo mundo para falar uma piada, e acaba sendo espancado por ser ruim demais",
+            "quant": 1,
+            "local": false
+        },
+        "eita": {
+            "fala": "%s chamou %s para ir em um local escondido, para mostrar \"uma coisinha\"",
+            "quant": 2,
+            "local": false
+        },
+        "calma": {
+            "fala": "%s amea\u00e7ou %s de morte!",
+            "quant": 2,
+            "local": false
+        },
+        "creme": {
+            "fala": "%s flagrou %s comendo creme de cabelo",
+            "quant": 2,
+            "local": false
+        },
+        "furry": {
+            "fala": "%s se revelou furry! Mas %s n\u00e3o gostou muito da ideia",
+            "quant": 2,
+            "local": false
+        },
+        "mds": {
+            "fala": "%s morreu se cortando com um papel, mas ele reviveu N\u00e3o me pergunte como",
+            "quant": 1,
+            "local": false
+        },
+        "mdss": {
+            "fala": "%s aprendeu uma li\u00e7\u00e3o! N\u00e3o jogar Roblox na frente de %s...",
+            "quant": 2,
+            "local": false
+        },
+        "roupa": {
+            "fala": "%s tira sua roupa no meio de todos, e sai como se nada tivesse acontecido",
+            "quant": 1,
+            "local": false
+        },
+        "pazes": {
+            "fala": "%s e %s fizeram as pazes",
+            "quant": 2,
+            "local": false
+        },
+        "volumoso": {
+            "fala": "%s viu algo volumoso se mexendo de baixo dos cobertores, mas decidiu apenas ignorar",
+            "quant": 1,
+            "local": false
+        },
+        "kkk": {
+            "fala": "haviam dois p\u00e9s inquietos dentro do banheiro, %s decidiu averiguar, saiu arrependido...",
+            "quant": 1,
+            "local": false
+        },
+        "dsds": {
+            "fala": "%s estava amarrando um saco preto no por\u00e3o, %s desceu para ver o que era, mas ate agora n\u00e3o saiu de la...",
+            "quant": 2,
+            "local": false
+        },
+        "dsda": {
+            "fala": "%s estava se divertindo com %s no s\u00f3t\u00e3o, mas felizmente a pol\u00edcia chegou a tempo",
+            "quant": 2,
+            "local": false
+        },
+        "dsdsadd": {
+            "fala": "Houve uma luta de tacos no banheiro entre: %s e %s, para ver quem comeria o peda\u00e7o de reboco que estava no ch\u00e3o",
+            "quant": 2,
+            "local": false
+        },
+        "DSWSADDASDD": {
+            "fala": "%s bebeu todo o leite que estava na geladeira, ent\u00e3o %s teve que pedir para %s",
+            "quant": 3,
+            "local": false
+        },
+        "dsdsadsadasdasdasdsdA": {
+            "fala": "%s bebeu todo o leite que estava na geladeira, %s teve que optar por outros m\u00e9todos..",
+            "quant": 2,
+            "local": false
+        },
+        "a": {
+            "fala": "%s quebra o sof\u00e1 da casa e foge envergonhado",
+            "quant": 1,
+            "local": false
+        },
+        "dss    oi": {
+            "fala": "%s pega uma faca e vai para cima de %s, %s fica s\u00f3 olhando",
+            "quant": 3,
+            "local": false
+        },
+        "dsd03A": {
+            "fala": "%s achou um cacto, n\u00e3o pensou duas vezes e comeu",
+            "quant": 1,
+            "local": false
+        },
+        "d-": {
+            "fala": "%s reuniu uma festa e chamou todos, menos o %s",
+            "quant": 2,
+            "local": false
+        },
+        "fodsas": {
+            "fala": "%s descobre que %s e %s est\u00e3o tendo um caso",
+            "quant": 3,
+            "local": false
+        },
+        "fod09": {
+            "fala": "%s ficou preso %s por horas",
+            "quant": 1,
+            "local": true
+        },
+        "ppp": {
+            "fala": "%s e %s combinam que v\u00e3o votar para %s ficar no pared\u00e3o",
+            "quant": 3,
+            "local": false
+        },
+        "AaAaADSAD": {
+            "fala": "%s fala para todos n\u00e3o seguirem o exemplo de %s",
+            "quant": 2,
+            "local": false
+        },
+        "D...": {
+            "fala": "%s e %s fizeram o jantar, menos para o %s",
+            "quant": 3,
+            "local": false
+        },
+        "Java": {
+            "fala": "N\u00e3o programe Java na frente de %s!",
+            "quant": 1,
+            "local": false
+        },
+        "dAsASASsA21": {
+            "fala": "%s \u00e9 ignorado por todo mundo",
+            "quant": 1,
+            "local": false
+        },
+        "dsasAaAa3203892038I2382038028302839": {
+            "fala": "%s quebra o pulso em uma guerra de travesseiros",
+            "quant": 1,
+            "local": false
+        },
+        "dsA": {
+            "fala": "Flagraram o %s cometendo atos impuros na cozinha, aquele p\u00e3o nunca mais foi comest\u00edvel",
+            "quant": 1,
+            "local": false
+        },
+        "DSDA\u00c1APAO": {
+            "fala": "%s comeu o p\u00e3o sem saber do que fizeram com ele",
+            "quant": 1,
+            "local": false
+        },
+        "77395": {
+            "fala": "%s estava se sentindo solitario ent\u00e3o decidiu se enturmar com um ursinho de pelucia",
+            "quant": 1,
+            "local": false
+        },
+        "62176": {
+            "fala": "Falta agua na casa e %s bebe agua da privada",
+            "quant": 1,
+            "local": false
+        },
+        "70237": {
+            "fala": "%s tentou procurar suprimentos, no caminho encontrou %s que correu por ver a arma q o outro carregava entre as pernas",
+            "quant": 2,
+            "local": false
+        },
+        "66094": {
+            "fala": "%s resolveu jogar x1 no Osu! com %s, qm perdesse teria q fazer o almo\u00e7o por uma semana",
+            "quant": 2,
+            "local": false
+        },
+        "95664": {
+            "fala": "%s levou uma mijada nos zoi por ter amea\u00e7ado um cururu %s",
+            "quant": 1,
+            "local": true
+        },
+        "90900": {
+            "fala": "%s se matou mas continuou vivo",
+            "quant": 1,
+            "local": false
+        },
+        "29354": {
+            "fala": "%s perdeu o x1 no Osu!, e agr ele ter\u00e1 q fazer almo\u00e7o por uma semana",
+            "quant": 1,
+            "local": false
+        },
+        "41973": {
+            "fala": "%s foi pego jogando roblox, logo depois foi espancado",
+            "quant": 1,
+            "local": false
+        },
+        "59189": {
+            "fala": "%s falou mal de Dead By Daylight pro Guzavo e foi espancado",
+            "quant": 1,
+            "local": false
+        },
+        "86138": {
+            "fala": "%s perdeu horas e horas virando pro player de Dead by Roblox",
+            "quant": 1,
+            "local": false
+        },
+        "80901": {
+            "fala": "%s come\u00e7ou com letra mai\u00fascula na frase do bot e foi espancado por Guzavo",
+            "quant": 1,
+            "local": false
+        },
+        "86651": {
+            "fala": "%s foi sequestrado por homens da caverna que invadiram o programa",
+            "quant": 1,
+            "local": false
+        },
+        "67743": {
+            "fala": "Os indiano loko criador de casa sequestraram %s",
+            "quant": 1,
+            "local": false
+        },
+        "87964": {
+            "fala": "%s tentou parecer legal e deu um mortal no meio de todos.\n\nEle quebrou a coluna e morreu.",
+            "quant": 1,
+            "local": false
+        },
+        "4240": {
+            "fala": "%s foi pego saindo da ventila\u00e7\u00e3o, foi ejetado por ser muito sus",
+            "quant": 1,
+            "local": false
+        },
+        "89737": {
+            "fala": "%s tentou amarrar %s em um pilar.\n\nEle n\u00e3o conseguiu e se amarrou.",
+            "quant": 2,
+            "local": false
+        },
+        "8984": {
+            "fala": "%s foi para cima de %s com uma faca, mas a faca estava cega",
+            "quant": 2,
+            "local": false
+        },
+        "1658": {
+            "fala": "%s derrubou o sabonete e %s se aproveitou",
+            "quant": 2,
+            "local": false
+        }
+    }
+}

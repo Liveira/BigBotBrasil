@@ -1,0 +1,59 @@
+PAREDÃO { 
+    FOTO 1 {
+        X - 247
+        Z - 171
+    }
+    FOTO 2 {
+        X - 763
+        Z - 171
+    }
+}
+1 {
+    FOTO 1 {
+        X - 505
+        Z - 97
+    }
+    TEXTO {
+        X - 246
+        Z - 403
+    }
+}
+2 {
+    FOTO 1 {
+        X - 360
+        Z - 83
+    }
+    FOTO 2 {
+        X - 655
+        Z - 83
+    }
+    TEXTO {
+        X - 246
+        Z - 403
+    }
+}
+3 {
+    FOTO 1 {
+        X - 210
+        Z - 83
+    }
+    FOTO 2 {
+        X - 505
+        Z - 83
+    }
+    TEXTO {
+        X - 805
+        Z - 403
+    }
+}
+ELIMINATORIA {
+    FOTO 1 {
+        X - 497
+        Z - 99
+    }
+    TEXTO { 
+        X - 413
+        Z - 399
+    }
+
+}
